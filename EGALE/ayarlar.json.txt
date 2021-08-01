@@ -1,0 +1,6 @@
+{
+  "prefix": "!",
+  "sahip": "Kendi İd ni",
+ "token": "ODcxMDUyODg0NzUyNjA5MzAx.YQVtNw.J9dPKkYnib_VWBokVgPN7hUsCzk"
+
+}
